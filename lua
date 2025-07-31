@@ -31,7 +31,10 @@ local eggChances = {
     ["Common Summer Egg"] = {["Starfish"] = 50, ["Seafull"] = 25, ["Crab"] = 25},
     ["Rare Summer Egg"] = {["Flamingo"] = 30, ["Toucan"] = 25, ["Sea Turtle"] = 20, ["Orangutan"] = 15, ["Seal"] = 10},
     ["Paradise Egg"] = {["Ostrich"] = 43, ["Peacock"] = 33, ["Capybara"] = 24, ["Scarlet Macaw"] = 3, ["Mimic Octopus"] = 1},
-    ["Premium Night Egg"] = {["Hedgehog"] = 50, ["Mole"] = 26, ["Frog"] = 14, ["Echo Frog"] = 10}
+    ["Premium Night Egg"] = {["Hedgehog"] = 50, ["Mole"] = 26, ["Frog"] = 14, ["Echo Frog"] = 10},
+    ["Dinosaur Egg"] = {["Raptor"] = 35, ["Triceratops"] = 32.5, ["Stegosaurus"] = 28, ["Pterodactyl"] = 0, ["Brontosaurus"] = 0, ["T-Rex"] = 0},
+    ["Zen Egg"] = {["Shiba Inu"] = 40, ["Nihonzaru"] = 31, ["Tanuki"] = 20.82, ["Tanchozuru"] = 0, ["Kappa"] = 0, ["Kitsune"] = 0},
+    ["Primal Egg"] = {["Parasaurolophus"] = 35, ["Iguanodon"] = 32.5, ["Pachycephalosaurus"] = 28, ["Dilophosaurus"] = 0, ["Ankylosaurus"] = 0, ["Spinosaurus"] = 0},
 }
 
 local realESP = {
